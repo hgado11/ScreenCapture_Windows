@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OneNote_ScreenCapture.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="menu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">menuStrip1</Value>
+    </Setting>
+    <Setting Name="printButton" Type="System.String" Scope="User">
+      <Value Profile="(Default)">printToolStripMenuItem</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
